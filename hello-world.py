@@ -1,5 +1,5 @@
 menu = ['osh', 'shashlik', 'manti', 'lagmon']
-buyurtmalar = ['osh', 'shashlik', 'manti', 'somsa']
+buyurtmalar = ['osh', 'shashlik', 'manti', 'somsa', 'norin']
 
 for taom in buyurtmalar:
       if taom in menu:
